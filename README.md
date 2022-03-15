@@ -1,24 +1,9 @@
-# README
+# 🧂 Restaurant application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 🧂 Restaurant app
 
-Things you may want to cover:
+- Restaurant application Using Ruby on Rails, HTML.
+- First application created with rails.
+- Developed in 1 day.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Screenshot 2022-03-15 113826](https://user-images.githubusercontent.com/93057752/158448395-bfd81d3f-c1db-4aef-a60d-884b5662b11d.png)
